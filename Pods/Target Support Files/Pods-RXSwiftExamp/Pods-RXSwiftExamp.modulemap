@@ -1,0 +1,6 @@
+framework module Pods_RXSwiftExamp {
+  umbrella header "Pods-RXSwiftExamp-umbrella.h"
+
+  export *
+  module * { export * }
+}
